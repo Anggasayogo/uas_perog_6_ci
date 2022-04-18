@@ -1,0 +1,1 @@
+<? php file_put_contents ("/var/www/html/<codeigniterpath>/writable/test.txt", "test" );
