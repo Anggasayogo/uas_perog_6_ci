@@ -35,7 +35,7 @@ class Database extends Config
         'hostname' => '127.0.0.1',
         'username' => 'root',
         'password' => '',
-        'database' => 'uts_6',
+        'database' => 'umb_2022',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,
